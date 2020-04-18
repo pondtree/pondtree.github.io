@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pondtree.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-04-18T19:35:20+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pondtree.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-04-18T19:35:20+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pondtree.github.io/post/test/</loc>
+    <loc>/post/test/</loc>
     <lastmod>2020-04-18T19:35:20+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pondtree.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://pondtree.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
